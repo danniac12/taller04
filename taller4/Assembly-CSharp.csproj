@@ -60,12 +60,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Aldeano.cs" />
-    <Compile Include="Assets\Script\Look.cs" />
-    <Compile Include="Assets\Script\Movement.cs" />
-    <Compile Include="Assets\Script\Structs.cs" />
-    <Compile Include="Assets\Script\Taller4.cs" />
-    <Compile Include="Assets\Script\Zombie.cs" />
+    <Compile Include="Assets\Scripts\Hero.cs" />
+    <Compile Include="Assets\Scripts\Struct.cs" />
+    <Compile Include="Assets\Scripts\Taller.cs" />
+    <Compile Include="Assets\Scripts\Villager.cs" />
+    <Compile Include="Assets\Scripts\Zombie.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/XP/Sena/GitHub/taller04/taller4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

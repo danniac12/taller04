@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Zombie
-  - Villiger
+  - TextAlde
+  - TextZombie
+  - Hero
+  - Villager
   layers:
   - Default
   - TransparentFX
